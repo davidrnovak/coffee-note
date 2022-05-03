@@ -1,4 +1,3 @@
-import adapter from '@sveltejs/adapter-auto';
 import sveltePreprocess from 'svelte-preprocess';
 import adapter from '@sveltejs/adapter-netlify'
 
@@ -7,10 +6,4 @@ const config = {
 	kit: {
 		adapter: adapter()
 	}
-};
-
-export default {
-  kit: {
-    adapter: adapter()
-  }
 };
