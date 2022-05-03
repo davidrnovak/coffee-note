@@ -1,0 +1,4 @@
+<button class="flex items-center gap-2 border-2 border-text-200 p-2 hover:bg-text-200 hover:text-primary-100 hover:stroke-primary-100 transition-colors">
+  <svg width="16" height="16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M9.805 6.195a.667.667 0 0 0-.943 0l-2 2a.667.667 0 1 0 .943.943l2-2a.667.667 0 0 0 0-.943Z" fill="#242526"/><path d="M14.471 1.529a.667.667 0 0 0-.712-.15l-12 4.666a.667.667 0 0 0 .007 1.246l5.05 1.893 1.893 5.05a.667.667 0 0 0 .62.432h.004a.666.666 0 0 0 .622-.425l4.666-12a.667.667 0 0 0-.15-.712Zm-5.126 10.6-1.388-3.7a.667.667 0 0 0-.39-.39l-3.7-1.384 8.962-3.484-3.484 8.958Z" fill="#242526"/></svg>
+  Share
+</button>
