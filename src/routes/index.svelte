@@ -8,12 +8,14 @@
   <RecipeDisplay/>
 </div>
 
-<style lang="scss">
+<style>
   .grid--coffee {
     display: grid;
     grid-template-columns: 1fr;
-    
-    @media (min-width: 30rem) {
+  }
+
+  @media (min-width: 30rem) {
+    .grid--coffee {
       grid-template-columns: 0.4fr 1fr;
       padding: 2rem;
     }
